@@ -67,7 +67,7 @@ ax.set_zlim(0, 15)
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Loss')
-ax.set_title("Gradient Descent vs Adam (Interactive)")
+ax.set_title("Gradient Descent vs Adam Visualization")
 ax.legend()
 
 # --------------------------
